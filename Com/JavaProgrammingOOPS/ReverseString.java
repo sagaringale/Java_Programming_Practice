@@ -1,6 +1,6 @@
 package Com.JavaProgrammingOOPS;
 
-public class JavaProgOOPS {
+public class ReverseString {
 
 	public static void main(String[] args) {
 		//Reverse
