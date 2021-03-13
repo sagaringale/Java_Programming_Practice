@@ -26,6 +26,7 @@ public class JavaProgOOPS {
 		System.out.println("next ");
 		
 		//Approach-4
+		
 		StringBuffer sb = new StringBuffer(str);
 		System.out.println(sb.reverse());
 		
