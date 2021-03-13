@@ -23,7 +23,7 @@ public class JavaProgOOPS {
 		StringBuilder sbuilder = new StringBuilder(str);
 		System.out.println(sbuilder.reverse());
 	
-		System.out.println(" ");
+		System.out.println("next ");
 		
 		//Approach-4
 		StringBuffer sb = new StringBuffer(str);
