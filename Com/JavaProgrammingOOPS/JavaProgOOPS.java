@@ -18,7 +18,14 @@ public class JavaProgOOPS {
 			System.out.println(str.charAt(i));
 		}
 		
+		System.out.println("");
+		//Approach-3
+		StringBuilder sbuilder = new StringBuilder(str);
+		System.out.println(sbuilder.reverse());
 		
+		//Approach-4
+		StringBuffer sb = new StringBuffer(str);
+		System.out.println(sb.reverse());
 		
 	}
 
