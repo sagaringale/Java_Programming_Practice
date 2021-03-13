@@ -22,6 +22,8 @@ public class JavaProgOOPS {
 		//Approach-3
 		StringBuilder sbuilder = new StringBuilder(str);
 		System.out.println(sbuilder.reverse());
+	
+		System.out.println(" ");
 		
 		//Approach-4
 		StringBuffer sb = new StringBuffer(str);
